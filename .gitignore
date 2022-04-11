@@ -1,4 +1,5 @@
 .DS_Store
 .data/
-./mnist_net.pth
+.*.pth
 .ipynb_checkpoints/
+
